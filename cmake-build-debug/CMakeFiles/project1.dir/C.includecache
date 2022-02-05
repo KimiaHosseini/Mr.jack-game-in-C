@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lenovo/Desktop/project1/action.h
+map.h
+C:/Users/Lenovo/Desktop/project1/map.h
+
+C:/Users/Lenovo/Desktop/project1/cards.h
+
+C:/Users/Lenovo/Desktop/project1/game.c
+stdio.h
+-
+stdlib.h
+-
+action.h
+C:/Users/Lenovo/Desktop/project1/action.h
+cards.h
+C:/Users/Lenovo/Desktop/project1/cards.h
+windows.h
+-
+time.h
+-
+unistd.h
+-
+
+C:/Users/Lenovo/Desktop/project1/map.h
+
